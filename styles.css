@@ -1,13 +1,11 @@
 /*  your css code here. If applicable */
 #yellow{
-	border-radius:1px;
-	border-color:green;
+	border: 1px solid green;	
 }
 #red{
-	border-radius:1px;
-	border-color:black;
+	
+	border: 1px solid black;
 }
-#yellow{
-	border-radius:1px;
-	border-color:yellow;
+#green{
+	border: 1px solid yellow;
 }
